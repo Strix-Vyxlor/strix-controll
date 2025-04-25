@@ -33,7 +33,7 @@ bower_components
 Thumbs.db
 
 # Ignore built ts files
-dist/
+#dist/
 
 __pycache__/
 
@@ -55,3 +55,5 @@ out/*
 cli/
 cli/*
 cli/decky
+
+.direnv

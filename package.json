@@ -1,7 +1,7 @@
 {
-  "name": "decky-plugin-template",
+  "name": "strix-controll",
   "version": "0.0.1",
-  "description": "A template to quickly create decky plugins from scratch, based on TypeScript and webpack",
+  "description": "decky plugin to controll system settings when not on steam deck",
   "type": "module",
   "scripts": {
     "build": "rollup -c",
@@ -10,21 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SteamDeckHomebrew/decky-plugin-template.git"
+    "url": "git+https://github.com/Strix-Vyxlor/strix-controll.git"
   },
   "keywords": [
     "decky",
-    "plugin",
-    "plugin-template",
-    "steam-deck",
-    "deck"
+    "plugin"
   ],
-  "author": "You <you@you.tld>",
+  "author": "Strix Vyxlor <strix.vyxlor@gmail.com>",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/SteamDeckHomebrew/decky-plugin-template/issues"
+    "url": "https://github.com/Strix-Vyxlor/strix-controll/issues"
   },
-  "homepage": "https://github.com/SteamDeckHomebrew/decky-plugin-template#readme",
+  "homepage": "https://github.com/Strix-Vyxlor/strix-controll#readme",
   "devDependencies": {
     "@decky/rollup": "^1.0.1",
     "@decky/ui": "^4.7.2",
